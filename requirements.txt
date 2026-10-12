@@ -1,0 +1,10 @@
+# Grocery List Optimizer — Python dependencies
+# Verified against Python 3.12.7 (Miniconda environment)
+#
+# Install with:  pip install -r requirements.txt
+
+pandas==2.2.3
+geopy==2.4.1
+folium==0.20.0
+gradio==5.17.1
+fpdf==1.7.2
